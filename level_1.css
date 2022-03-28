@@ -1,0 +1,59 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+  font-family: cursive;
+}
+.secret_text {
+  border: 1px solid black;
+  text-align: center;
+  background-color: white;
+  margin-top: 80px;
+}
+.secret_text h3 {
+
+  margin: 0;
+  padding: 5px;
+}
+.style_btn{
+  width: 45px;
+  height: 45px;
+  font-size: 30px;
+  margin: 3px;
+}
+img {
+  top: 20px;
+  position: absolute;
+  width: 40px;
+}
+.wrap {
+  margin: 0 auto;
+}
+.btn_1, .btn_2, .btn_3{
+  text-align: center;
+}
+.wrap  {
+  width: 800px;
+  height: 250px;
+}
+.secret_abc{
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  padding-bottom: 40px;
+
+}
+
+.secret_abc .abc{
+  width: 50px;
+  height: 50px;
+  background-color: white;
+  border: 1px solid black;
+  margin: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0;
+
+}
